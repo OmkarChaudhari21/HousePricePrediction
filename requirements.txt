@@ -133,5 +133,4 @@ webcolors==24.6.0
 webencodings==0.5.1
 websocket-client==1.8.0
 Werkzeug==3.0.6
-xgboost==3.0.0
-
+xgboost==2.1.4
