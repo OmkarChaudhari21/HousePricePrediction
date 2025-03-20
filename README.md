@@ -1,5 +1,3 @@
-# HousePricePrediction
-
 # House Price Prediction API
 
 A Flask-based API that predicts house prices using a machine-learning model.
